@@ -7,3 +7,12 @@ C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Librar
 C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.dll
 C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.pdb
 C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.csprojAssemblyReference.cache
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\bin\Debug\netcoreapp2.1\ContentBlock.Models.deps.json
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\bin\Debug\netcoreapp2.1\ContentBlock.Models.dll
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\bin\Debug\netcoreapp2.1\ContentBlock.Models.pdb
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.csprojAssemblyReference.cache
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.csproj.CoreCompileInputs.cache
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.AssemblyInfoInputs.cache
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.AssemblyInfo.cs
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.dll
+C:\Users\vishn_000\Desktop\Json_WordDoc\JSon-to-Word-Document\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\obj\Debug\netcoreapp2.1\ContentBlock.Models.pdb

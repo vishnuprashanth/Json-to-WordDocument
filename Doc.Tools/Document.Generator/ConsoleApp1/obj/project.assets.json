@@ -6337,11 +6337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\ConsoleApp1\\Document.Generator.App.csproj",
+      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\ConsoleApp1\\Document.Generator.App.csproj",
       "projectName": "Document.Generator.App",
-      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\ConsoleApp1\\Document.Generator.App.csproj",
+      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\ConsoleApp1\\Document.Generator.App.csproj",
       "packagesPath": "C:\\Users\\vishn_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6360,14 +6360,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\MicrofanAutoDocumentation\\Document.Generator.Dll.csproj": {
-              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\MicrofanAutoDocumentation\\Document.Generator.Dll.csproj"
+            "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\MicrofanAutoDocumentation\\Document.Generator.Dll.csproj": {
+              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\MicrofanAutoDocumentation\\Document.Generator.Dll.csproj"
             },
-            "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj": {
-              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj"
+            "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj": {
+              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj"
             },
-            "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj": {
-              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj"
+            "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj": {
+              "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj"
             }
           }
         }

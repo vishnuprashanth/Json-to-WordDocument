@@ -3375,11 +3375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj",
+      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj",
       "projectName": "TocAdder",
-      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj",
+      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\TocAdder\\TocAdder.csproj",
       "packagesPath": "C:\\Users\\vishn_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Doc.Tools\\Document.Generator\\TocAdder\\obj\\",
+      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Doc.Tools\\Document.Generator\\TocAdder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

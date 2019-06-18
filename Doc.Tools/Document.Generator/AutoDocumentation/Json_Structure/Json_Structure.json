@@ -1,0 +1,57 @@
+{
+  "Tags": {
+    "title": "ARGOS M1/M2/M3",
+    "version": "V20180718",
+    "BOOK_TITLE": "ARGOS P1",
+    "type": "User manual",
+    "language": "EN",
+    "HMI_Version": "3.09"
+  },
+  "chapters": [
+    {
+      "title": "Intorduction",
+      "contentBlock": [
+        {
+          "type": "text",
+          "content": "This manual presents a description of the operation, possibilities and control functions of the central ARGOS M1 climate and management computer."
+        }
+      ],
+      "chapters": [
+        {
+          "title": "ARGOS M1 Climate & management system",
+          "contentBlock": [
+            {
+              "type": "text",
+              "contetnt": "**ARGOS structure**\n ARGOS M1 is a central operation unit connected, via a communication port, to room computers (ARGOS M2/M3). Each of these room computers has independent intelligence with control technique.Maximum 35 room computers can be to ARGOS M1"
+            },
+            {
+              "type": "image",
+              "imageUrl": "img1.jpg",
+              "description": "ARGOS M1 screen ",
+              "horizontalAlignment": "center"
+            },
+            {
+              "type": "text",
+              "content": "In asimple way, reuired setting and measurements for the connected rooms and centeral contrls(e.g. centeral exhaust) can be retrived and/or entered. The following data can be retrived and/or entered:\n+Reading and settings of the conneted rooms and/or centeral controls\n+Curve Controls.\n+water consumption registration per room.\nAutomatic lighting contro.\n+Historical overview in the form of graphs.\n+Alarms.\n**ARGOS M1 Blackbox**\nThere is also an ARGOS M1 blackbox.IN this case, operation of ARGOS M! take Place via PC,laptop,table or smartphone.In this case the ARGOS PC connect license is required.\n**ARGOS connect PC program**\nARGOS can be connectd directly to a PC via a router."
+            }
+          ],
+
+          "chapters": [
+            {
+              "title": "Local Login",
+              "contetblock": [
+                {
+                  "type": "text",
+                  "content": "If you want to log in under a different user, you must press at the bottom right.\n A new Window will be displayed in which the user, depending on the setting standard authentication mode, is offered several options. they are described below :++Standard authentication mode: Basic++\n "
+                }
+              ]
+            }
+          ]
+
+
+        }
+      ]
+    }
+  ]
+}
+        

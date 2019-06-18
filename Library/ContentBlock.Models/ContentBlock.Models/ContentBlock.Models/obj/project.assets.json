@@ -5304,11 +5304,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj",
+      "projectUniqueName": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj",
       "projectName": "ContentBlock.Models",
-      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj",
+      "projectPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models.csproj",
       "packagesPath": "C:\\Users\\vishn_000\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Microfan1\\microfan-intranet.argos-configurator\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\obj\\",
+      "outputPath": "C:\\Users\\vishn_000\\Desktop\\Json_WordDoc\\JSon-to-Word-Document\\Library\\ContentBlock.Models\\ContentBlock.Models\\ContentBlock.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,453 @@
+{
+  "Tags": {
+    "title": "ARGOS M1/M2/M3",
+    "version": "V20180718",
+    "BOOK_TITLE": "ARGOS P1",
+    "type": "User manual",
+    "language": "EN",
+    "HMI_Version": "3.09"
+  },
+  "documentParts": [
+    {
+      "chapters": [
+        {
+          "title": " First Chapter 1",
+          "contentBlocks": [
+            {
+              "type": "text",
+              "content": "Regularly clean the screen with a soft clean and damp cloth "
+            },
+            {
+              "type": "Text",
+              "content": "**Regularly clean the screen with a soft clean and damp cloth**"
+            },
+            {
+              "type": "Text",
+              "content": "`Regularly clean the screen with a soft clean and damp cloth`"
+            },
+            {
+              "type": "Text",
+              "content": "_Regularly clean the screen with a soft clean and damp cloth_ "
+            },
+            {
+              "type": "Text",
+              "content": "First Chapter **`_Content_`**"
+            },
+            {
+              "type": "Text",
+              "content": "Hello world. $$First$$ Chapter `**Content**`" // Not reading the Bulllist
+            },
+            {
+              "type": "Text",
+              "content": "**Regularly clean** the screen with a soft _clean and damp cloth_" // Its not Printing the Bold Properly and it combine Underline and bold together
+            },
+
+
+            {
+              "type": "image",
+              "ImageUrl": "default.jpg",
+              "content": "ARGOS M1 screen",
+              "horizontalAlignment": "Center"
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum/Maximum measurements reset time ",
+              "inputRange": "00:00-23.59 hh:mm",
+              "contentBlocks": [
+                {
+                  "type": "path",
+                  "route": "system.settings.functions.climate.moisture"
+                },
+                {
+                  "type": "Text",
+                  "content": "**First** `Chapter` _Content_"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapters": [
+        {
+          "title": " Second Chapter",
+          "contentBlocks": [
+            {
+              "type": "Text",
+              "content": "**_Regularly clean the screen with a soft clean and damp cloth_** "
+            },
+            {
+              "type": "remark",
+              "hasBorder": "true",
+              "iconUrl": "remark.jpg",
+              "content": "**Regularly clean the screen with a soft clean and damp cloth**"
+            },
+            {
+              "type": "image",
+              "ImageUrl": "default.jpg",
+              "content": "ARGOS M1 screen",
+              "horizontalAlignment": "Center"
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum/Maximum measurements reset time ",
+              "inputRange": "00:00-23.59 hh:mm",
+              "contentBlocks": [
+                {
+                  "type": "path",
+                  "route": "system.settings.functions.climate.moisture"
+                },
+                {
+                  "type": "Text",
+                  "content": "**First Chapter Content**"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapters": [
+        {
+          "title": "Intorduction",
+          "contentBlocks": [
+            {
+              "type": "text",
+              "content": "This manual presents a description of the operation, possibilities and control functions of the central ARGOS M1 climate and management computer."
+            },
+            {
+              "type": "remark",
+              "hasBorder": true,
+              "iconUrl": "default.jpg",
+              "content": "Regularly clean the screen with a soft clean and damp cloth "
+            },
+            {
+              "type": "Text",
+              "content": "Regularly clean the screen with a soft clean and damp cloth "
+            },
+            {
+              "type": "Text",
+              "content": "**Regularly clean the screen with a soft clean and damp cloth**"
+            },
+            {
+              "type": "Text",
+              "content": "`Regularly clean the screen with a soft clean and damp cloth`"
+            },
+            {
+              "type": "Text",
+              "content": "_Regularly clean the screen with a soft clean and damp cloth_ "
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "chapters": [
+        {
+          "title": "Second Chapter",
+          "contentBlocks": [
+            {
+              "type": "text",
+              "content": "If you want to log in under a different user, you must press at the bottom right.\n A new Window will be displayed in which the user, depending on the setting standard authentication mode, is offered several options. they are described below :++Standard authentication mode: Basic++\n "
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum/Maximum measurements reset time ",
+              "inputRange": "00:00-23.59 hh:mm",
+              "contentBlocks": [
+                {
+                  "type": "Path",
+                  "route": "system.settings.functions.climate.moisture"
+                },
+                {
+                  "type": "Text",
+                  "content": "First Chapter Content"
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Actual temperature ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the calculated set temperature. This set temperature is taken all influences into account"
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Calculated set temperature ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the calculated set temperature. This set temperature is taken all influences into account."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Calculated bandwidth ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "The selected bandwidth may be influenced, for instance, by the outside temperature. The calculated bandwidth is the result of these adjustments."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Calculated ventilation ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "Depending on the setting in the installer menu, here, the calculated ventilation on the basis of M3/hour or on the basis of percentages is shown."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Calculated ventilation per animal ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "Here, the calculated ventilation per animal is shown."
+                }
+
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum / maximum ventilation ",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the calculated minimum and maximum ventilation."
+                }
+
+              ]
+            },
+
+
+            {
+              "type": "Path",
+              "route": "Climate.Advanced.Ventilation.Settings"
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Set temperature ",
+              "inputRange": "0.0 – 50.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the set temperature for the ventilation control in the house when occupancy is set to Animals. It is possible to have this set temperature adjusted automatically using a curve. Selecting this set temperature manually will then be no use any more. If no curve is used, this set temperature is to be selected manually. Various controls, such as heating and additional controls, can be connected to this set temperature. This will cause these connected controls to be adjusted automatically if this set temperature is adjusted. As soon as the temperature in the house raises above this set temperature, the ventilation will be increased. When the temperature is below the set temperature, the ventilation will be at minimum."
+                }
+
+              ]
+            },
+            {
+              "type": "Remark",
+              "hasBorder": true,
+              "iconUrl": "default.jpg",
+              "content": "If the set temperature curve is used, this setting cannot be changed. In that case, go to the Curves menu to adjust the set temperature."
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Bandwidth ",
+              "inputRange": "1.0 – 10.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the number of degrees in which the ventilation is controlled from minimum to maximum."
+                }
+
+              ]
+            },
+
+
+
+
+
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum ventilation level",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the minimum ventilation level. This level will be reached as soon as the temperature is lower than the set temperature. Depending on the preference settings, the minimum ventilation can be specified in 3 ways:"
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "1. Minimum ventilation per animal (M3/hour per animal)",
+              "inputRange": "Input range: 0.01 – 200.00 M3/hour",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "So the number of animals determines the ultimate minimum ventilation in M3/hour."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "2. Minimum ventilation per kg (M3/hour per kg animal weight)",
+              "inputRange": "Input range: 0.01 – 200.00 M3/hour",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "Here, the number and weight of the animals determine the eventual minimum and maximum ventilation"
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "3. Minimum ventilation in percentages (%)",
+              "inputRange": "0 – 100%",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "Here, the minimum ventilation is specified in terms of percentages. The number of animals and the weight of the animals are not included in this way of ventilating."
+                }
+              ]
+            },
+            {
+              "type": "remark",
+              "hasBorder": true,
+              "iconUrl": "default.jpg",
+              "content": "If the ventilation curves are used, this setting cannot be changed. In that case, go to the Curves menu to adjust the minimum ventilation."
+            },
+
+
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Absolute minimum ventilation level",
+              "inputRange": "Input range: 0 – 100% or 0,00 – 100,00 M3/h",
+              "contentBlocks": [
+                {
+                  "type": "text",
+                  "content": "When you use the automatic adjust of the minimum ventilation level by the outside temperature, here, you can set the absolute minimum ventilation level. The automatic adjustment of the minimum ventilation level will never be lower than this setting."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Absolute minimum ventilation level",
+              "inputRange": "Input range: 0 – 100% or 0,00 – 100,00 M3/h",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "When you use the automatic adjust of the minimum ventilation level by the outside temperature, here, you can set the absolute minimum ventilation level. The automatic adjustment of the minimum ventilation level will never be lower than this setting."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Maximum ventilation",
+              "inputRange": "Input range: 0 – 100% or 0.01 – 200.00 m3/h",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the maximum ventilation level. This ventilation level will be reached as soon as the temperature in the house is higher than set temperature + bandwidth. Depending on the preference settings, the maximum ventilation can be specified in 3 ways. See minimum ventilation."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Heating neutral zone",
+              "inputRange": "20.0 – +20.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "This is the neutral zone of the heating control(s). If the temperature in the house becomes lower than the set temperature plus this neutral zone, the heating will be switched on."
+                }
+
+              ]
+            },
+            {
+              "type": "remark",
+              "hasBorder": true,
+              "iconUrl": "default.jpg",
+              "content": "A negative setting ensures that the heating is switched on at a temperature below the set temperature (is normal)."
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum temperature alarm (relative)",
+              "inputRange": "Input range: 0.0 – 50.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "If the house temperature drops by this number of degrees below the calculated set temperature, a minimum relative temperature alarm will be given."
+                }
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Maximum temperature alarm (relative)",
+              "inputRange": "0.0 – 50.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "Input range: 0.0 – 50.0°C If the house temperature rises by this number of degrees above the calculated set temperature, maximum relative alarm will be given. In this case, the house temperature is to be higher than the actual outside temperature plus the outside temperature compensation (see function below)."
+                }
+
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Maximum temperature alarm (absolute)",
+              "inputRange": "0.0 – 50.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "If the house temperature rises above this alarm temperature, absolute maximum temperature alarm will be given. The prevailing outside temperature is NOT taken into consideration."
+                }
+
+              ]
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Outside temperature compensation",
+              "inputRange": "0.0 – 50.0°C",
+              "contentBlocks": [
+                {
+                  "type": "Text",
+                  "content": "If the maximum relative alarm limit is exceeded, ARGOS P1 will first check whether the house temperature is higher than the outside temperature PLUS this compensation. This will prevent maximum temperature alarm from being given unnecessarily on hot summer days."
+                }
+
+              ]
+            }
+
+          ]
+        }
+      ]
+    }
+  ]
+}
+   

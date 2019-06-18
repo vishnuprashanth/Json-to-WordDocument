@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Templates\**" />
+    <EmbeddedResource Remove="Templates\**" />
+    <None Remove="Templates\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DocumentPart.cs" />
+    <Compile Remove="Page.cs" />
+    <Compile Remove="PageSource.cs" />
+    <Compile Remove="PageToc.cs" />
+    <Compile Remove="Welcome.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.8.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="SixLabors.ImageSharp" Version="1.0.0-beta0005" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Library\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models\ContentBlock.Models.csproj" />
+    <ProjectReference Include="..\TocAdder\TocAdder.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Open XML SDK\V2.5\lib\DocumentFormat.OpenXml.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <HintPath>..\..\..\..\..\..\Windows\winsxs\msil_system.drawing_b03f5f7f11d50a3a_6.1.7601.22970_none_4d284440c71977db\System.Drawing.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing.Design">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.1\System.Drawing.Design.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,115 @@
+{
+  "Tags": {
+    "title": "ARGOS M1/M2/M3",
+    "version": "V20180718",
+    "BOOK_TITLE": "ARGOS P1",
+    "type": "User manual",
+    "language": "EN",
+    "HMI_Version": "3.09"
+  },
+  "documentParts": [
+    {
+      "chapters": [
+        {
+          "title": " First Chapter 1",
+          "contentBlocks": [
+            {
+              "type": "text",
+              "content": "Regularly clean the screen with a soft clean and damp cloth "
+            },
+            {
+              "type": "Text",
+              "content": "**Regularly clean the screen with a soft clean and damp cloth**"
+            },
+            {
+              "type": "Text",
+              "content": "`Regularly clean the screen with a soft clean and damp cloth`"
+            },
+            {
+              "type": "Text",
+              "content": "_Regularly clean the screen with a soft clean and damp cloth_ "
+            },
+            {
+              "type": "Text",
+              "content": "First Chapter **`_Content_`**"
+            },
+            {
+              "type": "Text",
+              "content": "Hello world. $$First$$ Chapter `**Content**`" // Not reading the Bulllist
+            },
+            {
+              "type": "Text",
+              "content": "**Regularly clean** the screen with a soft _clean and damp cloth_" // Its not Printing the Bold Properly and it combine Underline and bold together
+            },
+
+
+            {
+              "type": "image",
+              "ImageUrl": "default.jpg",
+              "content": "ARGOS M1 screen",
+              "horizontalAlignment": "Center"
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum/Maximum measurements reset time ",
+              "inputRange": "00:00-23.59 hh:mm",
+              "contentBlocks": [
+                {
+                  "type": "path",
+                  "route": "system.settings.functions.climate.moisture"
+                },
+                {
+                  "type": "Text",
+                  "content": "**First** `Chapter` _Content_"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapters": [
+        {
+          "title": " Second Chapter",
+          "contentBlocks": [
+            {
+              "type": "Text",
+              "content": "**_Regularly clean the screen with a soft clean and damp cloth_** "
+            },
+            {
+              "type": "remark",
+              "hasBorder": "true",
+              "iconUrl": "remark.jpg",
+              "content": "**Regularly clean the screen with a soft clean and damp cloth**"
+            },
+            {
+              "type": "image",
+              "ImageUrl": "default.jpg",
+              "content": "ARGOS M1 screen",
+              "horizontalAlignment": "Center"
+            },
+            {
+              "type": "function",
+              "functionid": 10020,
+              "title": "Minimum/Maximum measurements reset time ",
+              "inputRange": "00:00-23.59 hh:mm",
+              "contentBlocks": [
+                {
+                  "type": "path",
+                  "route": "system.settings.functions.climate.moisture"
+                },
+                {
+                  "type": "Text",
+                  "content": "**First Chapter Content**"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+   
