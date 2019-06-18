@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Document.Generator.App": {
+      "commandName": "Project",
+      "commandLineArgs": "\"PATH_TO_JSON\" \"PATH_TO_WORD_TEMPLATE\""
+    }
+  }
+}

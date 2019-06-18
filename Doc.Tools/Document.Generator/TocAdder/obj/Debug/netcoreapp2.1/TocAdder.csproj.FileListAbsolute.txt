@@ -1,0 +1,9 @@
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\bin\Debug\netcoreapp2.1\TocAdder.deps.json
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\bin\Debug\netcoreapp2.1\TocAdder.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\bin\Debug\netcoreapp2.1\TocAdder.pdb
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.csprojAssemblyReference.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.csproj.CoreCompileInputs.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.AssemblyInfoInputs.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.AssemblyInfo.cs
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\TocAdder\obj\Debug\netcoreapp2.1\TocAdder.pdb

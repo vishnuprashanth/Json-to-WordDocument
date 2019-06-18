@@ -1,0 +1,14 @@
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\Document.Generator.Dll.deps.json
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\Document.Generator.Dll.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\Document.Generator.Dll.pdb
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\ContentBlock.Models.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\TocAdder.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\ContentBlock.Models.pdb
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\bin\Debug\netcoreapp2.1\TocAdder.pdb
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.csprojAssemblyReference.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.csproj.CoreCompileInputs.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.AssemblyInfoInputs.cache
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.AssemblyInfo.cs
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.csproj.CopyComplete
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.dll
+C:\Users\vishn_000\Desktop\Microfan1\microfan-intranet.argos-configurator\Doc.Tools\Document.Generator\MicrofanAutoDocumentation\obj\Debug\netcoreapp2.1\Document.Generator.Dll.pdb

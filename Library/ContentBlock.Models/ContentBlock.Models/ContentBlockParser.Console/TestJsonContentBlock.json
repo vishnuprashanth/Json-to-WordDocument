@@ -1,0 +1,27 @@
+			
+			{
+        "contentBlocks": [
+          {
+            "type": "Text",
+            "content": "",
+            "font": []
+          },
+          {
+            "type": "Image",
+            "imageUrl": "",
+            "description": "",
+            "horizontalAlignment": ""
+          },
+          {
+            "type": "Path",
+            "route": ""
+          },
+          {
+            "type": "Remark",
+            "hasBorder": false,
+            "iconUrl": "",
+            "content": ""
+          }
+        ]
+        }
+			
